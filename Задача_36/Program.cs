@@ -11,11 +11,13 @@ Library.FillArray(array);
 System.Console.WriteLine("");
 
 int count = 0;
-for (int i = 0; i < array.Length; i++)
+int index = 0;
+while (index < array.Length)
 {
-    if (array[i] % 2 == 0)
-    {
-        count++;
-    }
+    count = count + array[index];
+
+index = index + 2;
 }
-System.Console.Write("Количество четных числе в массиве равно: " + count);
+
+
+System.Console.Write("Сумма элементов массива на четных позициях равна: " + count);
