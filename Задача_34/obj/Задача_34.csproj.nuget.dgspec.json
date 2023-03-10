@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\GB\\Home-Work Seminar-5\\Задача_34\\Задача_34.csproj": {}
+    "C:\\Users\\compas95\\Desktop\\GeekBrains\\Home-Work\\Home-Work-Seminar-5\\Задача_34\\Задача_34.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\GB\\Home-Work Seminar-5\\Задача_34\\Задача_34.csproj": {
+    "C:\\Users\\compas95\\Desktop\\GeekBrains\\Home-Work\\Home-Work-Seminar-5\\Задача_34\\Задача_34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\GB\\Home-Work Seminar-5\\Задача_34\\Задача_34.csproj",
+        "projectUniqueName": "C:\\Users\\compas95\\Desktop\\GeekBrains\\Home-Work\\Home-Work-Seminar-5\\Задача_34\\Задача_34.csproj",
         "projectName": "Задача_34",
-        "projectPath": "C:\\Users\\User\\Desktop\\GB\\Home-Work Seminar-5\\Задача_34\\Задача_34.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\GB\\Home-Work Seminar-5\\Задача_34\\obj\\",
+        "projectPath": "C:\\Users\\compas95\\Desktop\\GeekBrains\\Home-Work\\Home-Work-Seminar-5\\Задача_34\\Задача_34.csproj",
+        "packagesPath": "C:\\Users\\compas95\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\compas95\\Desktop\\GeekBrains\\Home-Work\\Home-Work-Seminar-5\\Задача_34\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\compas95\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

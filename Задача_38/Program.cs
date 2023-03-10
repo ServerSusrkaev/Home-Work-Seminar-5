@@ -11,7 +11,7 @@ System.Console.WriteLine("");
 
 int maxNumber = 0;
 int minNumber = array[0];
-int count = 0;
+//int count = 0;
 
 for (int i = 0; i < array.Length; i++)
 {
@@ -19,9 +19,8 @@ for (int i = 0; i < array.Length; i++)
     {
         minNumber = array[i];
     }
-    else
+    else if (array[i] > maxNumber)
     {
         maxNumber = array[i];
     }
-}
-System.Console.Write("Разница между максимальным и минимальным элементами массива равна: " + (maxNumber - minNumber));
+}System.Console.Write("Разница между максимальным и минимальным элементами массива равна: " + (maxNumber - minNumber));

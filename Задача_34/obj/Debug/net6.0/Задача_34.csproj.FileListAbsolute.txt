@@ -13,3 +13,18 @@ C:\Users\User\Desktop\GB\Home-Work Seminar-5\Задача_34\obj\Debug\net6.0\re
 C:\Users\User\Desktop\GB\Home-Work Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.pdb
 C:\Users\User\Desktop\GB\Home-Work Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.genruntimeconfig.cache
 C:\Users\User\Desktop\GB\Home-Work Seminar-5\Задача_34\obj\Debug\net6.0\ref\Задача_34.dll
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\bin\Debug\net6.0\Задача_34.exe
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\bin\Debug\net6.0\Задача_34.deps.json
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\bin\Debug\net6.0\Задача_34.runtimeconfig.json
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\bin\Debug\net6.0\Задача_34.dll
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\bin\Debug\net6.0\Задача_34.pdb
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.csproj.AssemblyReference.cache
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.AssemblyInfoInputs.cache
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.AssemblyInfo.cs
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.csproj.CoreCompileInputs.cache
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.dll
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\refint\Задача_34.dll
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.pdb
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\Задача_34.genruntimeconfig.cache
+C:\Users\compas95\Desktop\GeekBrains\Home-Work\Home-Work-Seminar-5\Задача_34\obj\Debug\net6.0\ref\Задача_34.dll
